@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464978110 source:c:\users\vitor\desktop\ex10\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465358218 source:c:\users\vitor\desktop\ex4 alg\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

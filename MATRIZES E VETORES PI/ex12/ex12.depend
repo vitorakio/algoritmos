@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464984026 source:c:\users\vitor\desktop\algoritmo\matrizes e vetores pi\ex12\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
